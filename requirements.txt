@@ -1,0 +1,11 @@
+flwr==0.17.0
+ray==1.11.1
+ml_collections 
+einops 
+timm 
+tqdm 
+scikit-image 
+wand 
+opencv-python==4.6.0.66 
+tensorboard 
+thop
